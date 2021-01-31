@@ -13,6 +13,6 @@ Some things benefit from shocks; they thrive and grow when exposed to volatility
 
 Reach me out 😄
 
-[Linkedin] (https://www.linkedin.com/in/beatriz2071/)
+[!Linkedin] (https://www.linkedin.com/in/beatriz2071/)
 
 
