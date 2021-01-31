@@ -14,6 +14,6 @@ Nassim Nicholas Taleb
 
 Reach me out 😄
 
-[Linkedin](https://www.linkedin.com/in/beatriz2071/).
+[Linkedin](https://www.linkedin.com/in/beatriz2071/) 
 
 
