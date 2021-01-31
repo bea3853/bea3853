@@ -2,10 +2,10 @@
 
 My name is Beatriz.
 I live in São Paulo / Brazil.
-I am also a Java development student. 
+
+I have studied java development.
 
 I have a degree in Human Resources and an MBA in people management.
-
 
 I work with social media and digital marketing.
 ##
@@ -14,6 +14,6 @@ Nassim Nicholas Taleb
 
 Reach me out 😄
 
-[![Linkedin] (https://www.linkedin.com/in/beatriz2071/)
+[Linkedin](https://www.linkedin.com/in/beatriz2071/).
 
 
