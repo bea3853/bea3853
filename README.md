@@ -1,6 +1,5 @@
-#Hi there  👋
+# Hi there  👋
 
-#Hi there 👋
 
 My name is Beatriz. I live in São Paulo/Brazil.
 I'm studing Java development.
