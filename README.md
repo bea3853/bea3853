@@ -1,6 +1,6 @@
 # Hi there  👋
 
-![Alt Text](http://gph.is/1abcVrd)
+![Alt Text](https://media.giphy.com/media/udhngZK2IFTc4/giphy.gif)
 
 My name is Beatriz. I live in São Paulo/Brazil.
 I'm studing Java development.
