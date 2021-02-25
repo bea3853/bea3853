@@ -1,6 +1,6 @@
 # Hi there  👋
 
-![Alt Text](https://media1.tenor.com/images/6237b067516a0727d03c8c8b7ad05576/tenor.gif?itemid=18062279")
+![Alt Text](img.bea3853)
 
 My name is Beatriz. I live in São Paulo/Brazil.
 I'm studing Java development.
