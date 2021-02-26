@@ -8,7 +8,7 @@
 
 :bar_chart: I work with social media and digital marketing.
 
-DNA Double Helix Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
+🧬 Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
 Nassim Nicholas Taleb    
 
 
