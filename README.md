@@ -1,16 +1,18 @@
-# Hi there  👋
-:relaxed:
-My name is Beatriz and live in São Paulo/Brazil.:earth_americas:
+👋:relaxed: # Hi there    
 
-I'm studing Java development.
 
-I work with social media and digital marketing.
+:earth_americas: My name is Beatriz and live in São Paulo/Brazil.
 
-Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
+
+:books: I'm studing Java development.
+
+:bar_chart: I work with social media and digital marketing.
+
+DNA Double Helix Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
 Nassim Nicholas Taleb    
 
 
-Reach me out  ## :wink:
+Reach me out  :wink:
 
 [Linkedin](https://www.linkedin.com/in/beatriz2071/) 
 
