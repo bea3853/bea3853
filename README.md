@@ -1,4 +1,4 @@
-👋:relaxed: # Hi there    
+👋:relaxed:  Hi there    
 
 
 :earth_americas: My name is Beatriz and live in São Paulo/Brazil.
