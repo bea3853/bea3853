@@ -17,3 +17,5 @@ Reach me out  :wink:
 [Linkedin](https://www.linkedin.com/in/beatriz2071/) 
 
 
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+
