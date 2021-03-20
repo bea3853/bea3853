@@ -17,7 +17,7 @@ Reach me out  :wink:
 [Linkedin](https://www.linkedin.com/in/beatriz2071/) 
 
 
- ![Profile View Counter](https://komarev.com/ghpvc/?bea3853=Your_GitHub_bea3853)
+
 
  ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
