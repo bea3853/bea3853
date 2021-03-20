@@ -17,5 +17,5 @@ Reach me out  :wink:
 [Linkedin](https://www.linkedin.com/in/beatriz2071/) 
 
 
- ![bea3853](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_bea3853&show_icons=true)
 
