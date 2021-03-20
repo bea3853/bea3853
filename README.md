@@ -17,7 +17,7 @@ Reach me out  :wink:
 [Linkedin](https://www.linkedin.com/in/beatriz2071/) 
 
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?bea3853=Your_GitHub_Username&show_icons=true)
+ ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?bea3853/bea3853=Your_GitHub_Username&theme=blue-green)
 
  ##   Here is a random joke that'll make you laugh!
  ![Jokes Card](https://readme-jokes.vercel.app/api)
