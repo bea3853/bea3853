@@ -4,7 +4,7 @@
 :earth_americas: My name is Beatriz and live in São Paulo/Brazil.
 
 
-:books: I'm studing Java development.
+:books: I'm studing Html, CSS, JS and Java development.
 
 :bar_chart: I work with social media and digital marketing.
 
