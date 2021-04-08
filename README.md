@@ -1,7 +1,7 @@
-👋:relaxed: #Hi there    
+#Hi there👋:relaxed: 
 
 
-:earth_americas: ##My name is Beatriz and live in São Paulo/Brazil.
+##My name is Beatriz and live in São Paulo/Brazil.:earth_americas:
 
 
 :books: I'm studing Html, CSS, JS and Java development.
