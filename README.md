@@ -1,5 +1,4 @@
-# Hi there👋:relaxed: /play flawless
-
+# Hi there👋:relaxed: 
 
 My name is Beatriz and live in São Paulo/Brazil.:earth_americas:
 
