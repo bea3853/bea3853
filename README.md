@@ -3,7 +3,7 @@
 My name is Beatriz and I live in São Paulo/Brazil.:earth_americas:
 
 
-:books: I'm studing Html, CSS, JS and Java development.
+:books: I'm studing Html, CSS and JS development.
 
 :bar_chart: I work with social media and digital marketing.
 
