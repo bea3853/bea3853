@@ -19,6 +19,7 @@ Nassim Nicholas Taleb*
 Reach me out  :wink:
 
 [Site](https://beatrizalves.netlify.app/)
+
 [Instagram](https://www.instagram.com/g.otho/)
 
 
