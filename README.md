@@ -1,6 +1,6 @@
 # Hi there👋:relaxed: 
 
-## My name is Beatriz and I live in São Paulo/Brazil.:earth_americas:
+## My name is Beatriz.
 
 
 #### :books: I'm studing Html, CSS, JS, and PHP development.
