@@ -1,11 +1,6 @@
 # Hi there👋:relaxed: 
 
-## My name is Beatriz.
-
-
 #### :books: I'm studing HTML, CSS, JS, P5.js and PHP development.
-
-:bar_chart: I work with social media and digital marketing.
 
 🧬 *Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
 Nassim Nicholas Taleb*    
