@@ -3,7 +3,7 @@
 ## My name is Beatriz.
 
 
-#### :books: I'm studing Html, CSS, JS, and PHP development.
+#### :books: I'm studing Html, CSS, JS, P5.js and PHP development.
 
 :bar_chart: I work with social media and digital marketing.
 
