@@ -17,5 +17,7 @@ Reach me out  :wink:
 
 [Instagram](https://www.instagram.com/g.otho/)
 
+[Tech . B](34191.75124 81674.662044 00148.270002 1 00000000000000)
+
 
 
