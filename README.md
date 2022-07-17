@@ -17,5 +17,5 @@ Reach me out  :wink:
 
 [Instagram](https://www.instagram.com/g.otho/)
 
-[Tech . B](https://www.instagram.com/techb9)
+[Tech . B](https://www.instagram.com/tech.b9)
 
