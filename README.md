@@ -13,9 +13,9 @@ Nassim Nicholas Taleb*
 
 Reach me out  :wink:
 
-[Site](https://beatrizalves.netlify.app/)
 
-[Instagram](https://www.instagram.com/g.otho/)
+
+[Greta Otho ;) ](https://www.instagram.com/g.otho/)
 
 [Tech . B](https://www.instagram.com/tech.b9)
 
