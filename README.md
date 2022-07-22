@@ -1,4 +1,4 @@
-Se# Hi there👋:relaxed: 
+# Hi there👋:relaxed: 
 
 💻 I’m currently working on P5.js, Firebase React-Native and Game development, teaching.
 
