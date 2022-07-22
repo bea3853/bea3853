@@ -2,6 +2,11 @@ Se# Hi there👋:relaxed:
 
 #### :books: I'm studing HTML, CSS, JS, P5.js, SQL, Firebase and Node.JS.
 
+
+I'm interested in:
+#### Front-End
+#### Game development
+
 🧬 *Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
 Nassim Nicholas Taleb*    
 
