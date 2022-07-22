@@ -4,7 +4,7 @@ Se# Hi there👋:relaxed:
 
 
 ### I'm interested in:
- 	:art: Front-End
+:jigsaw:  Front-End
 :video_game: Game development
 
 🧬 *Some things benefit from shocks; they thrive and grow when exposed to volatility, randomness, disorder and stressors and love adventure, risk and uncertainty ”. 
