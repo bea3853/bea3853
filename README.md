@@ -1,6 +1,6 @@
 Se# Hi there👋:relaxed: 
 
- :books: I'm studing HTML, CSS, JS, P5.js, SQL, Firebase and Node.JS.
+ :books: I'm studing HTML, CSS, JS, P5.js, SQL, Firebase, React and Node.JS.
 
 
 ### I'm interested in:
