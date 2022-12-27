@@ -44,5 +44,5 @@ Reach me out  :wink:
 
 [Greta Otho](https://www.instagram.com/g.otho/)
 
-[Tech . B](https://www.instagram.com/tech.b9)
+[Tech . B](https://www.instagram.com/te.ch.b)
 
