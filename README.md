@@ -21,7 +21,7 @@
 
  <img align="center" alt="p5js" height="30" width="40" src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png" style="max-width: 100%;">
  
- <img align="center" alt="p5js" height="30" width="40" src="[https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png](https://brm.io/matter-js/img/matter-js.svg)" style="max-width: 100%;"> 
+ <img align="center" alt="p5js" height="30" width="40" src="https://brm.io/matter-js/img/matter-js.svg" style="max-width: 100%;"> 
 
 
 
