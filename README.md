@@ -24,9 +24,8 @@
 
 
 
-<p><a target="_blank" rel="noopener noreferrer" href="  https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg "><img align="left" alt="React" width="26px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;"></a></p>
 
-<img align="left" alt="React" width="26px" height="30" src=" ![image](https://user-images.githubusercontent.com/55098795/218549686-19dbbb56-7be2-43be-9a8b-ffddb471e725.png)" style="max-width: 100%;"></a></p>
+
 
 
 
@@ -34,8 +33,10 @@
 
 
 <img src="https://camo.githubusercontent.com/9197204cb5fe8007252fd5b2b6cc47b9c4318e16836fe645eccd35941b9ecb9c/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f6c6f676f732d616e642d6272616e64732f3531322f39315f446973636f72645f6c6f676f5f6c6f676f732d3531322e706e67" alt="discord" width="30" height="30" style="max-width: 100%;"></a></p>
-<br> 
 
+
+
+<hr>
 
 
 [![@bea's Holopin board](https://holopin.me/bea)](https://holopin.io/@bea)
