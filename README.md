@@ -59,3 +59,5 @@ Reach me out  :wink:
 
 [Tech . B](https://www.instagram.com/te.ch.b)
 
+[Midium](https://medium.com/@tech.b)
+
