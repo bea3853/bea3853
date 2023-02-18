@@ -55,9 +55,9 @@ Reach me out  :wink:
 
 
 
-*[Greta Otho](https://www.instagram.com/g.otho/)
+* [Greta Otho](https://www.instagram.com/g.otho/)
 
-*[Tech . B](https://www.instagram.com/te.ch.b)
+* [Tech . B](https://www.instagram.com/te.ch.b)
 
-*[Medium](https://medium.com/@tech.b)
+* [Medium](https://medium.com/@tech.b)
 
