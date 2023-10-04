@@ -25,6 +25,8 @@
  
  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img align="left" alt="bootstrap" width="26px" height="30" src="https://miro.medium.com/max/1400/0*8_FFAH6vg7XJLCDV.png" style="max-width: 100%;"></a>
 
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
 
 
 <!--<a target="_blank" rel="noopener noreferrer" href=" https://www.python.org/ "><img align="left" alt="bootstrap" width="26px" height="30" src=" https://www.python.org/static/img/python-logo@2x.png" style="max-width: 100%;"></a>-->
