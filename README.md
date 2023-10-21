@@ -28,7 +28,6 @@
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
-
 <!--<a target="_blank" rel="noopener noreferrer" href=" https://www.python.org/ "><img align="left" alt="bootstrap" width="26px" height="30" src=" https://www.python.org/static/img/python-logo@2x.png" style="max-width: 100%;"></a>-->
  
 <img align="center" alt="p5js" height="30" width="40" src="https://brm.io/matter-js/img/matter-js.svg" style="max-width: 100%;">
@@ -65,5 +64,9 @@ Reach me out  :wink:
 
 * [Tech . B](https://www.instagram.com/te.ch.b)
 
-* [Medium](https://medium.com/@tech.b)
+ ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
+* [tech.b](https://medium.com/@tech.b)
+
+  
 
