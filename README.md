@@ -2,7 +2,7 @@
 
 💻 I’m currently working on P5.js, Matter.js, Firebase, React-Native and Game development, teaching.
 
-🌱 I’m currently improving my abilities about Node.JS, SQL, AWS, Google Cloud, Python, Bootstrap, C, C + + and Arduino.
+🌱 I’m currently improving my abilities about Node.JS, SQL, AWS, Google Cloud, Python, Bootstrap, C, Arduino and Mojo.
 
 
 
