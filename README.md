@@ -64,9 +64,9 @@ Reach me out  :wink:
 
 * [Tech . B](https://www.instagram.com/te.ch.b)
 
- ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+* [Medium](https://medium.com/@tech.b)
 
-* [tech.b](https://medium.com/@tech.b)
+
 
   
 
