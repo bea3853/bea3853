@@ -1,6 +1,6 @@
 # Hi there👋:relaxed: 
 
-💻 I’m currently working on P5.js, Matter.js, Firebase, React-Native and Game development, Python, IA,  Bootstrap, teaching.
+💻 I’m currently working on P5.js, Matter.js, Firebase, React-Native, Game development, Python, IA,  Bootstrap, teaching.
 
 🌱 I’m currently improving my abilities about Node.JS, SQL, AWS, Google Cloud, C,  Arduino and Mojo.
 
