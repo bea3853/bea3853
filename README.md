@@ -60,6 +60,10 @@ Reach me out  :wink:
 
 * [Medium](https://medium.com/@tech.b)
 
+* [PCEP](https://www.credly.com/badges/d88ebc15-0335-4582-9bfc-b0cc697cc774/public_url)
+
+*[CISCO](https://www.credly.com/badges/3cd88c03-0a16-4b1a-a566-ae814ef6deb6/public_url) 
+
 
 
   
