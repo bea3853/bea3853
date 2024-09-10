@@ -7,25 +7,40 @@
 
 
 
-</p><p dir="auto"> Languages frameworks and library:</p>
+<p dir="auto">Languages, frameworks, and libraries:</p>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img align="left" alt="Html5" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a>
+<p>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+    <img alt="Html5" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right: 8px;">
+  </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img align="left" alt="Css" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+    <img alt="Css" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 8px;">
+  </a>
 
- 
- <a href="https://github.com/mariabarkouzou"><img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
- 
-  <a href="https://github.com/mariabarkouzou"><img align="left" alt="React" width="40px" src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png" style="max-width: 100%;"></a>
+  <a href="https://github.com/mariabarkouzou">
+    <img alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-right: 8px;">
+  </a>
 
+  <a href="https://github.com/mariabarkouzou">
+    <img alt="p5.js" width="40px" src="https://blindedcyclops.neocities.org/p5js-icons/p5-sq-reverse-filled.png" style="margin-right: 8px;">
+  </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img align="left" alt="JavaScript" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+    <img alt="JavaScript" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right: 8px;">
+  </a>
 
-<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img align="left" alt="bootstrap" width="26px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;"></a>
- 
- <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img align="left" alt="bootstrap" width="26px" height="30" src="https://miro.medium.com/max/1400/0*8_FFAH6vg7XJLCDV.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+    <img alt="Bootstrap" width="26px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="margin-right: 8px;">
+  </a>
 
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <a target="_blank" rel="noopener noreferrer" href="https://miro.medium.com/max/1400/0*8_FFAH6vg7XJLCDV.png">
+    <img alt="Bootstrap" width="26px" height="30" src="https://miro.medium.com/max/1400/0*8_FFAH6vg7XJLCDV.png" style="margin-right: 8px;">
+  </a>
+
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 8px;">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">
+</p>
 
  
 
