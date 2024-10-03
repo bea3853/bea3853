@@ -40,6 +40,8 @@
 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 8px;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40">
+
+  <img align="center" alt="p5js" height="30" width="40" src="https://brm.io/matter-js/img/matter-js.svg" style="max-width: 100%;">
 </p>
 
  
@@ -47,7 +49,7 @@
 
 <!--<a target="_blank" rel="noopener noreferrer" href=" https://www.python.org/ "><img align="left" alt="bootstrap" width="26px" height="30" src=" https://www.python.org/static/img/python-logo@2x.png" style="max-width: 100%;"></a>-->
  
-<img align="center" alt="p5js" height="30" width="40" src="https://brm.io/matter-js/img/matter-js.svg" style="max-width: 100%;">
+
  
  
  
