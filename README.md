@@ -77,6 +77,14 @@ Reach me out  :wink:
 
 * [Medium](https://medium.com/@tech.b)
 
+* [GoogleCloud](https://www.cloudskillsboost.google/public_profiles/eb908f25-ab0e-481a-9cf3-3c1b9571550b)
+
+* [Credly](https://www.credly.com/users/beatriz-alves-convexo) 
+
+
+
+
+
 
 CERTIFICAÇÕES: 
 PCEP -  CISCO - GOOGLE CLOUD - AWS FOUNDATIONS
