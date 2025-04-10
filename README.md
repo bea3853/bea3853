@@ -71,15 +71,15 @@ Reach me out  :wink:
 
 
 
-* [Greta Otho](https://www.instagram.com/g.otho/)
+* [Conteúdo - Greta Otho](https://www.instagram.com/g.otho/)
 
-* [Tech . B](https://www.instagram.com/te.ch.b)
+* [Conteúdo - Tech . B](https://www.instagram.com/te.ch.b)
 
-* [Medium](https://medium.com/@tech.b)
+* [Artigo - Medium](https://medium.com/@tech.b)
 
-* [GoogleCloud](https://www.cloudskillsboost.google/public_profiles/eb908f25-ab0e-481a-9cf3-3c1b9571550b)
+* [Certificações - GoogleCloud](https://www.cloudskillsboost.google/public_profiles/eb908f25-ab0e-481a-9cf3-3c1b9571550b)
 
-* [Credly](https://www.credly.com/users/beatriz-alves-convexo) 
+* [Certificações - Credly](https://www.credly.com/users/beatriz-alves-convexo) 
 
 
 
