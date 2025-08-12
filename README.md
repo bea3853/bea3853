@@ -73,7 +73,7 @@ Reach me out  :wink:
 
 * [Conteúdo - Greta Otho](https://www.instagram.com/g.otho/)
 
-* [Conteúdo - Tech . B](https://www.instagram.com/te.ch.b)
+* [Conteúdo - Tech . B](https://www.instagram.com/convexo.tech.b)
 
 * [Artigo - Medium](https://medium.com/@tech.b)
 
