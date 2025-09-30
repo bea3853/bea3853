@@ -6,7 +6,7 @@
 
 <img data-target="animated-image.replacedImage" alt="  " class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/d2166ad21e72d71d33d0458f3acbd3a0adbcb7e9ef3c13eed56be510476ca43b/68747470733a2f2f632e74656e6f722e636f6d2f32394f6b35706330697641414141414d2f676174696e686f2d6761746f2e676966" height="150" style="display: block; opacity: 1;"> 
 
-<img src="https://user-images.githubusercontent.com/74038190/216124372-27597c2f-74d4-4cef-993c-b27cab2ddc7f.png" alt="Astonished Face" width="120" style="max-width: 100%;">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/216124372-27597c2f-74d4-4cef-993c-b27cab2ddc7f.png" alt="Astonished Face" width="120" style="max-width: 100%;"> -->
 
 
 <p>
