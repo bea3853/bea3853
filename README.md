@@ -56,7 +56,6 @@
 
  
  
- 
 
  
  
@@ -93,7 +92,8 @@ Reach me out  :wink:
 CERTIFICAÇÕES: 
 PCEP -  CISCO - GOOGLE CLOUD - AWS FOUNDATIONS
 
-
+ 
+#WomenInTech #SoftwareEngineering #TechEducation #Python
 
   
 
