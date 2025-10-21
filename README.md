@@ -18,6 +18,8 @@
     <img alt="Css" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right: 8px;">
   </a>
 
+  
+
   <a href="https://github.com/mariabarkouzou">
     <img alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-right: 8px;">
   </a>
@@ -46,6 +48,7 @@
   </a>
 
   <img alt="PostgreSQL-Dark.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" height="35">
+
  <img alt="Django.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" height="35">
   <img alt="SQLite.svg" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" height="35">
 
