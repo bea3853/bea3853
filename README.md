@@ -96,6 +96,7 @@ Reach me out  :wink:
 
 * [Certificações - Credly](https://www.credly.com/users/beatriz-alves-convexo) 
 
+* [Fotografando por diversão com a minha NIKON ](https://www.pexels.com/pt-br/@be-alves-1540833/gallery/) 
 
 
 
