@@ -1,4 +1,4 @@
-# Hi there👋:relaxed: 
+# Hi there 👽
 
 I'm a Software Developer and Technology Educator passionate about building digital experiences, teaching programming, and exploring the future of artificial intelligence.
 
