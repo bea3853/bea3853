@@ -113,3 +113,5 @@ PCEP -  CISCO - GOOGLE CLOUD - AWS
 
 '...It’s as if you could encapsulate fire and store it in the cargo hold of an airplane.' - (Michael Saylor)
 
+
+"Eu sempre estive mais interessada no futuro do que no passado." -  Grace Hopper
