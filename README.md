@@ -8,11 +8,11 @@ Current Tech Stack
 
 ## I currently work with:
 
-- Frontend Development: HTML, CSS, JavaScript, Bootstrap
-- Creative Coding & Games: p5.js, Matter.js
-- Mobile Development: React Native
-- Backend & Data: Python, Firebase
-- AI & Data Science
+- Frontend Development: HTML, CSS, JavaScript, Bootstrap, Streamlit, Tkinter...
+- Creative Coding & Games: p5.js, Matter.js, pygame. 
+- Mobile Development: React Native, Flet, Kyvi. 
+- Backend & Data: Python, Neon.tech, Firebase, SQlite,FastApi, Django, Flask, Render, GCP, AWS...
+- AI & Data Science: Tensorflow, Scikitlearn, Keras, Matplotlib, Streamlit, Pandas ... 
 - Programming Education
 
 
