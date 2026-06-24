@@ -111,5 +111,5 @@ PCEP -  CISCO - GOOGLE CLOUD - AWS
  
 #WomenInTech #SoftwareEngineering #TechEducation #Python
 
-'  ...It’s as if you could encapsulate fire and store it in the cargo hold of an airplane.'
+'...It’s as if you could encapsulate fire and store it in the cargo hold of an airplane.' - (Michael Saylor)
 
